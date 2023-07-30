@@ -4,6 +4,7 @@
 ##### ✉️  : qkdwo4613@gmail.com
 ##### 📕 : https://jaeyoungb.tistory.com/
 
+<!--
 ________________________________
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logoColor=white"/>
@@ -31,6 +32,8 @@ ________________________________
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=white"/>
   
 </div>
+
+-->
   
 <!--
 <img src="https://img.shields.io/badge/Java-{007396}?style={flat}">
