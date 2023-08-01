@@ -4,6 +4,10 @@
 ##### ✉️  : qkdwo4613@gmail.com
 ##### 📕 : https://jaeyoungb.tistory.com/
 
+<br>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)](https://solved.ac/qkdwo46)
+
 <!--
 ________________________________
   
