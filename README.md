@@ -1,4 +1,26 @@
 ### Hi there 👋
+<!--
+<table>
+  <tr>
+    <td>Email</td>
+    <td>qkdwo4613@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Blog</td>
+    <td>https://jaeyoungb.tistory.com</td>
+  </tr>
+  <tr>
+    <td>Portfolio</td>
+    <td>https://github.com/bangjaeyoung/portfolio</td>
+  </tr>
+</table>
+-->
+
+💭 Email : qkdwo4613@gmail.com </br>
+💭 Blog : https://jaeyoungb.tistory.com </br>
+💭 Portfolio : https://github.com/bangjaeyoung/portfolio
+
+![Jaeyoung Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangjaeyoung&show_icons=true&theme=shadow_green) &nbsp; ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)
 
 <!--
 <div align="center">
@@ -10,7 +32,7 @@
 <br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)](https://solved.ac/qkdwo46)
--->
+
 
 
 <!--
