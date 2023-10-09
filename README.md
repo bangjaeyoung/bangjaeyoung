@@ -16,9 +16,9 @@
 </table>
 -->
 
-💭 Email : qkdwo4613@gmail.com </br>
-💭 Blog : https://jaeyoungb.tistory.com </br>
-💭 Portfolio : https://github.com/bangjaeyoung/portfolio
+Email : qkdwo4613@gmail.com </br>
+Blog : https://jaeyoungb.tistory.com </br>
+Portfolio : https://github.com/bangjaeyoung/portfolio
 
 ![Jaeyoung Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangjaeyoung&show_icons=true&theme=shadow_green) &nbsp; ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)
 
