@@ -1,5 +1,5 @@
-### Hi there 👋
 <!--
+### Hi there 👋
 <table>
   <tr>
     <td>Email</td>
@@ -21,8 +21,13 @@ Blog : https://jaeyoungb.tistory.com </br>
 Portfolio : https://github.com/bangjaeyoung/portfolio
 -->
 
+<div align="center">
+  
+![Jaeyoung Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangjaeyoung&show_icons=true&theme=swift)
 
-![Jaeyoung Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangjaeyoung&show_icons=true&theme=shadow_green) &nbsp; ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)
+
+</div>
 
 <!--
 <div align="center">
