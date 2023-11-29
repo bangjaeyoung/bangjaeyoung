@@ -23,9 +23,7 @@ Portfolio : https://github.com/bangjaeyoung/portfolio
 
 <div align="center">
   
-![Jaeyoung Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangjaeyoung&show_icons=true&theme=swift)
-
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)
+![Jaeyoung Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangjaeyoung&show_icons=true&theme=swift) ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)
 
 </div>
 
