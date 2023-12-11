@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=&logoColor=white">
 </p>
 
-###### Testing / Documentation
+###### Testing / API Documentation
 <p>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/Mockito-0B2343?style=flat-square&logo=&logoColor=white">
