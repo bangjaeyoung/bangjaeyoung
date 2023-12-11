@@ -1,83 +1,61 @@
+## Hi, there 👋
+
+<a href="https://jaeyoungb.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="mailto:qkdwo4613@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbangjaeyoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+---
+
+#### 📒 Problem Solving 
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46">
+
+꾸준하게 [알고리즘 문제](https://github.com/bangjaeyoung/algorithm/)를 해결하고 있습니다.
+
+---
+
+#### 🛠 Tech Stacks
+
+###### Back-end / Infra
+<p>
+  <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Querydsl-0769AD?style=flat-square&logo=&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white">
+</p>
+
+###### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+</p>
+
+###### Testing / Documentation
+<p>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Mockito-0B2343?style=flat-square&logo=&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Spring REST Docs-6DB33F?style=flat-square&logo=&logoColor=white">
+</p>
+
+---
+
+#### 🧑‍💻 Side Projects
+
+|Period|Title|Description|
+|---|---|---|
+|2023.05 ~ 2023.06|[Gyul Box](https://github.com/bangjaeyoung/gyul-box)|제주 지역의 주거공간 검색, 커뮤니티 서비스|
+|2023.01 ~ 2023.02|[Stock Box](https://github.com/bangjaeyoung/stock-box)|국내 실시간 주식 조회 및 모의투자 서비스|
+|2022.12 ~ 2023.01|[Stack Overflow](https://github.com/codestates-seb/seb41_pre_017)|Stack Overflow(개발자 커뮤니티) 클론 프로젝트|
+
 <!--
-### Hi there 👋
-<table>
-  <tr>
-    <td>Email</td>
-    <td>qkdwo4613@gmail.com</td>
-  </tr>
-  <tr>
-    <td>Blog</td>
-    <td>https://jaeyoungb.tistory.com</td>
-  </tr>
-  <tr>
-    <td>Portfolio</td>
-    <td>https://github.com/bangjaeyoung/portfolio</td>
-  </tr>
-</table>
--->
-<!--
-Email : qkdwo4613@gmail.com </br>
-Blog : https://jaeyoungb.tistory.com </br>
-Portfolio : https://github.com/bangjaeyoung/portfolio
--->
+---
 
-<div align="center">
-  
-![Jaeyoung Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangjaeyoung&show_icons=true&theme=swift) ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)
+#### Experiences
 
-</div>
-
-<!--
-<div align="center">
-
-### Contact 
-##### ✉️  : qkdwo4613@gmail.com
-##### 📕 : https://jaeyoungb.tistory.com
-
-<br>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)](https://solved.ac/qkdwo46)
-
-
-
-<!--
-________________________________
-  
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
-  <br><br>
-  
-  
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/H2 Database-004A9D?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/>
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=white"/>
-  
-</div>
-
--->
-  
-<!--
-<img src="https://img.shields.io/badge/Java-{007396}?style={flat}">
-<img src="https://img.shields.io/badge/CSS-288CDE?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-FFEB5A?style=flat&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=green"/>
-<img src="https://img.shields.io/badge/react-blue?style=flat&logo=React&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-BCEE68?style=flat&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-FF7F50?style=flat&logo=Git&logoColor=white"/>
+|Period|Description|
+|---|---|
+|202x.xx ~ 202x.xx|xxxx|
 -->
