@@ -6,30 +6,30 @@
 
 ---
 
-#### 🧩 Problem Solving 
+### 🧩 Problem Solving 
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46">
 
-꾸준하게 [알고리즘 문제](https://github.com/bangjaeyoung/algorithm/)를 해결하고 있습니다.
+꾸준히 [알고리즘 문제](https://github.com/bangjaeyoung/algorithm/)를 해결하고 있습니다.
 
 ---
 
-#### 🛠 Tech Stacks
+### 🛠 Tech Stacks
 
 ###### Back-end / Infra
 <p>
   <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/Querydsl-0769AD?style=flat-square&logo=&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=&logoColor=white">
 </p>
 
 ###### Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=&logoColor=white">
 </p>
 
 ###### Testing / Documentation
@@ -42,7 +42,7 @@
 
 ---
 
-#### 🧑‍💻 Side Projects
+### 🧑‍💻 Side Projects
 
 |Period|Title|Description|
 |---|---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-#### 🏃‍♂️ Experiences
+### 🏃‍♂️ Experiences
 
 |Period|Description|
 |---|---|
