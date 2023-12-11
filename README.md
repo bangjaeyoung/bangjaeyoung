@@ -46,9 +46,9 @@
 
 |Period|Title|Description|
 |---|---|---|
-|2023.05 ~ 2023.06|[Gyul Box](https://github.com/bangjaeyoung/gyul-box)|제주 지역의 주거공간 검색, 커뮤니티 서비스|
-|2023.01 ~ 2023.02|[Stock Box](https://github.com/bangjaeyoung/stock-box)|국내 실시간 주식 조회 및 모의투자 서비스|
-|2022.12 ~ 2023.01|[Stack Overflow](https://github.com/codestates-seb/seb41_pre_017)|Stack Overflow(개발자 커뮤니티) 클론 프로젝트|
+|2023.05 ~ 2023.06|[Gyul Box](https://github.com/bangjaeyoung/gyul-box)|제주 지역의 주거공간 검색, 커뮤니티 서비스 백엔드 개발|
+|2023.01 ~ 2023.02|[Stock Box](https://github.com/bangjaeyoung/stock-box)|국내 실시간 주식 조회 및 모의투자 서비스 백엔드 개발|
+|2022.12 ~ 2023.01|[Stack Overflow](https://github.com/codestates-seb/seb41_pre_017)|Stack Overflow(개발자 커뮤니티) 클론 프로젝트 백엔드 개발|
 
 ---
 
@@ -56,6 +56,6 @@
 
 |Period|Description|
 |---|---|
-|2023.10 ~ 2023.11|우아한테크코스 6기 프리코스 진행|
+|2023.10 ~ 2023.11|우아한테크코스 6기 백엔드 프리코스 진행|
 |2022.08 ~ 2023.02|코드스테이츠 백엔드 41기 수료|
 |2022.06 ~ 2022.08|패스트캠퍼스 Java & Spring Boot 22기 교육 수료|
