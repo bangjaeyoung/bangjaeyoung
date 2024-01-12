@@ -1,4 +1,6 @@
-## Hi, there 👋
+## Hi there 👋
+
+<!--
 
 <a href="https://jaeyoungb.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:qkdwo4613@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -59,3 +61,5 @@
 |2023.10 ~ 2023.11|우아한테크코스 6기 백엔드 프리코스 진행|
 |2022.08 ~ 2023.02|코드스테이츠 백엔드 41기 수료|
 |2022.06 ~ 2022.08|패스트캠퍼스 Java & Spring Boot 22기 교육 수료|
+
+-->
