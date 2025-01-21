@@ -1,11 +1,11 @@
 ## Hi, there 👋🏻
 
+<!--
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bangjaeyoung)](https://hits.seeyoufarm.com) 
 
 ![bangjaeyoung's github stats](https://github-readme-stats.vercel.app/api?username=bangjaeyoung&theme=shadow_green&show_icons=true)
 [![bangjaeyoung's solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkdwo46)](https://solved.ac/qkdwo46/)
 
-<!--
 
 <a href="https://jaeyoungb.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:qkdwo4613@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
